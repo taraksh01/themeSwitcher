@@ -22,7 +22,9 @@
   },
   "homepage": "https://github.com/taraksh01/themeSwitcher#readme",
   "devDependencies": {
-    "parcel": "^2.10.2"
+    "parcel": "^2.10.2",
+    "postcss": "^8.4.31",
+    "tailwindcss": "^3.3.5"
   },
   "dependencies": {
     "react": "^18.2.0",
