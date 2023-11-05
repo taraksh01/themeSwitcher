@@ -2,9 +2,9 @@
   "name": "themeswitcher",
   "version": "1.0.0",
   "description": "This is a simple app for practicing theme switching using context api.",
-  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
   },
   "repository": {
     "type": "git",
