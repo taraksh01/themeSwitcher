@@ -1,0 +1,24 @@
+{
+  "name": "themeswitcher",
+  "version": "1.0.0",
+  "description": "This is a simple app for practicing theme switching using context api.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taraksh01/themeSwitcher.git"
+  },
+  "keywords": [
+    "theme",
+    "Tarak Shaw",
+    "taraksh01"
+  ],
+  "author": "Tarak Shaw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taraksh01/themeSwitcher/issues"
+  },
+  "homepage": "https://github.com/taraksh01/themeSwitcher#readme"
+}
