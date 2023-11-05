@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/taraksh01/themeSwitcher/issues"
   },
-  "homepage": "https://github.com/taraksh01/themeSwitcher#readme"
+  "homepage": "https://github.com/taraksh01/themeSwitcher#readme",
+  "devDependencies": {
+    "parcel": "^2.10.2"
+  }
 }
