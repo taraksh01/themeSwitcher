@@ -1,10 +1,8 @@
-import { useContext } from "react";
+import { useContext, useState } from "react";
 import UserContextProvider from "./context/UserContextProvider";
 import UserContext from "./context/UserContext";
-import { useState } from "react";
 
 const App = () => {
-  // const { name, email } = user;
   return (
     <UserContextProvider>
       <Profile />
